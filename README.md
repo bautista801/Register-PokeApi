@@ -4,3 +4,6 @@ a su vez, en el menú estará el botón "Logout", el cual simplemente cerrará l
 
 El proyecto fue publicado en Vercel:
 https://register-poke-api.vercel.app/login
+
+Tambien su utilizó el hosting de Firebase:
+https://resgistro-be2af.web.app/Login
